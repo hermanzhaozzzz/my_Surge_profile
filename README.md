@@ -2,7 +2,7 @@
 
 a proxy rule profile for [surge mac app](https://nssurge.com/)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tytgp193j20dc08aq34.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tyxuz1m1j213g0rkq57.jpg)
 
 # Attention!
 Proxy part should be modified before using.
