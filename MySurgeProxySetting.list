@@ -1,0 +1,174 @@
+# MySurgeProxySetting
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,julialang-s3.julialang.org
+DOMAIN-SUFFIX,pkg.julialang.org
+DOMAIN-SUFFIX,swdist.apple.com,REJECT // 系统升级
+DOMAIN-SUFFIX,swcdn.apple.com,REJECT // 系统升级
+DOMAIN-SUFFIX,swscan.apple.com,REJECT // 系统升级
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,intelliatx.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,naturechina.com
+DOMAIN-SUFFIX,tsinghua.edu.cn,DIRECT
+DOMAIN-SUFFIX,nature.com
+DOMAIN-KEYWORD,gmail // Spark
+DOMAIN,api.amplitude.com // Spark
+DOMAIN-KEYWORD,smartmail // Spark
+DOMAIN,in.appcenter.ms // Spark
+DOMAIN-KEYWORD,163.com,DIRECT // Spark
+DOMAIN-KEYWORD,pku.edu.cn,DIRECT // Spark
+DOMAIN,imap.163.com,DIRECT // Spark
+DOMAIN-KEYWORD,sina.com,DIRECT // Spark
+DOMAIN-KEYWORD,tsinghua.edu.cn,DIRECT // Spark
+PROCESS-NAME,/Applications/Anki.app/Contents/MacOS/Anki // app
+PROCESS-NAME,/Applications/Dogecoin-Qt.app/Contents/MacOS/Dogecoin-Qt // app
+PROCESS-NAME,/Applications/Dropbox.app/Contents/MacOS/Dropbox // app
+PROCESS-NAME,/Applications/EndNote 20/EndNote 20.app/Contents/MacOS/EndNote 20 // app
+PROCESS-NAME,/Applications/Friendly for Twitter.app/Contents/MacOS/Friendly for Twitter // app
+PROCESS-NAME,/Applications/FileZilla Pro.app/Contents/MacOS/filezilla,DIRECT
+PROCESS-NAME,/Applications/Grammarly.app/Contents/MacOS/Grammarly // app
+PROCESS-NAME,/Applications/Kite.app/Contents/MacOS/Kite
+PROCESS-NAME,/Applications/Nutstore.app/Contents/Resources/NutstoreJavaBE.app/Contents/MacOS/NutstoreJavaBE // app
+PROCESS-NAME,/Applications/OneRadio.app/Contents/MacOS/OneRadio // app
+PROCESS-NAME,/Applications/OpenCore Configurator.app/Contents/MacOS/OpenCore Configurator
+PROCESS-NAME,/Applications/Radio FM.app/Contents/MacOS/Radio FM // app
+PROCESS-NAME,/Applications/RStudio.app/Contents/MacOS/rsession // app
+PROCESS-NAME,/Applications/RStudio.app/Contents/MacOS/RStudio // app
+PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram // app
+PROCESS-NAME,/Applications/Texpad.app/Contents/MacOS/Texpad // app
+PROCESS-NAME,/Applications/Todoist.app/Contents/MacOS/Todoist,v2ray_http // app
+PROCESS-NAME,/Applications/TuneIn.app/Contents/MacOS/TuneIn // app
+PROCESS-NAME,/Applications/Twitter.app/Contents/MacOS/Twitter // app
+PROCESS-NAME,/Users/mac/opt/anaconda3/bin/python3.8 // app
+PROCESS-NAME,/Users/zhaohuanan/Library/Application Support/Steam/steamapps/common/MahjongSoul/Jantama_MahjongSoul.app/Contents/MacOS/Jantama_MahjongSoul // 雀魂
+DOMAIN-SUFFIX,233v2.com // web
+DOMAIN-SUFFIX,academic.oup.com // web
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-KEYWORD,adobe // all
+DOMAIN-SUFFIX,airpr.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-KEYWORD,amazon // all
+DOMAIN-SUFFIX,anaconda.com // web
+DOMAIN-SUFFIX,ankiweb.net
+DOMAIN-SUFFIX,atdmt.com // web
+DOMAIN-SUFFIX,bandwagonhost.com // web
+DOMAIN,beacons.gcp.gvt2.com // web
+DOMAIN-KEYWORD,bilibili.com,DIRECT
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bluekai.com // web
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bookdown.org
+DOMAIN-KEYWORD,broadinstitute // web
+DOMAIN,cdn.cookielaw.org
+DOMAIN-SUFFIX,checkgfw.com
+DOMAIN-KEYWORD,cloudflare.com
+DOMAIN-KEYWORD,cloudfront.net // web
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,cnn.com // web
+DOMAIN-SUFFIX,coolors.co // web
+DOMAIN-KEYWORD,coursera // coursera
+DOMAIN,cran.rstudio.com // web
+DOMAIN-SUFFIX,criteo.com // web
+DOMAIN-SUFFIX,cuniq.com
+DOMAIN,d3njjcbhbojbot.cloudfront.net // web
+DOMAIN-KEYWORD,doubleclick.net // web
+DOMAIN,dpm.demdex.net
+DOMAIN,dpx.airpr.com
+DOMAIN-KEYWORD,dropbox // dropbox
+DOMAIN-KEYWORD,ensembl // ensembl
+DOMAIN-KEYWORD,exelator.com // web
+DOMAIN-KEYWORD,facebook // facebook
+DOMAIN-SUFFIX,g.co // web
+DOMAIN-SUFFIX,gatern.com
+DOMAIN-KEYWORD,gcorelabs // gcorelabs
+DOMAIN-SUFFIX,ggpht.com // web
+DOMAIN-SUFFIX,geetest.com
+DOMAIN-KEYWORD,github // all
+DOMAIN-KEYWORD,google // all
+DOMAIN-SUFFIX,genomeweb.com
+DOMAIN-SUFFIX,grammarly.com // grammarly
+DOMAIN-KEYWORD,graph-gallery.com // web
+DOMAIN-SUFFIX,gstatic.com // web
+DOMAIN-SUFFIX,hotjar.com // web
+DOMAIN-SUFFIX,hubspot.com
+DOMAIN-SUFFIX,imgur.com // web
+DOMAIN,in.appcenter.ms,v2ray_http // spark
+DOMAIN,insight.adsrvr.org // web
+DOMAIN-SUFFIX,ituring.com.cn
+DOMAIN-SUFFIX,jabref.org // web
+DOMAIN-SUFFIX,jianguoyun.com,DIRECT // web
+DOMAIN-SUFFIX,jquery.com // web
+DOMAIN,js.hs-scripts.com
+DOMAIN,js.hscollectedforms.net
+DOMAIN-SUFFIX,jy.18.com,DIRECT
+DOMAIN-SUFFIX,jy.xzsec.com,DIRECT
+DOMAIN-SUFFIX,kaggle.com // web
+DOMAIN,kova1.ni.net.tr
+DOMAIN-KEYWORD,libgen
+DOMAIN-SUFFIX,linksynergy.com // web
+DOMAIN-SUFFIX,linode.com // linode
+DOMAIN-SUFFIX,literatureandlatte.com // web
+DOMAIN,liugroup.us // web
+DOMAIN-SUFFIX,macupdate.com
+DOMAIN-KEYWORD,manuscripts // web
+DOMAIN,mapixl.com
+DOMAIN-KEYWORD,gstatic // GoogleMap
+DOMAIN,match.adsrvr.org // web
+DOMAIN-SUFFIX,media.net // web
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mongodb.org
+DOMAIN-KEYWORD,netflix // netflix
+DOMAIN-SUFFIX,netinternet.com.tr
+DOMAIN-KEYWORD,nflx // netflix
+DOMAIN-SUFFIX,nyt.com // web
+DOMAIN-SUFFIX,nytimes.com // web
+DOMAIN-KEYWORD,oafjbfqey // Science
+DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org // system
+DOMAIN,pixel.tapad.com
+DOMAIN-SUFFIX,plotly.com
+DOMAIN-KEYWORD,pnytimes // web
+DOMAIN-SUFFIX,publons.com // web
+DOMAIN-KEYWORD,pubmed // web
+DOMAIN,pypi.org // python
+DOMAIN-SUFFIX,pythonhosted.org // python
+DOMAIN-KEYWORD,omni // app
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-KEYWORD,overleaf // all
+DOMAIN-KEYWORD,quora // all
+DOMAIN-SUFFIX,rawgit.com // git
+DOMAIN-KEYWORD,reddit
+DOMAIN-SUFFIX,researchgate.net // web
+DOMAIN-SUFFIX,rlcdn.com
+DOMAIN-SUFFIX,rmtag.com
+DOMAIN-SUFFIX,rstudio.org // r
+DOMAIN-KEYWORD,sci-hub // all
+DOMAIN-SUFFIX,sciencemag.org // Science
+DOMAIN-SUFFIX,tablesgenerator.com
+DOMAIN,t.co // web
+DOMAIN-SUFFIX,t.me // web
+DOMAIN-KEYWORD,tawk.to // web
+DOMAIN-SUFFIX,telegram.org // web
+DOMAIN-KEYWORD,telesco.pe // web
+DOMAIN-SUFFIX,texstudio.org // latex
+DOMAIN,themereport.ispsystem.net
+DOMAIN,track.hubspot.com
+DOMAIN-SUFFIX,tumblr.com // tumblr
+DOMAIN-SUFFIX,tvsquared.com // web
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,twitter // twitter
+DOMAIN-SUFFIX,typora.io
+DOMAIN-KEYWORD,ucsc // web
+DOMAIN-SUFFIX,unmineable.com
+DOMAIN,use.fontawesome.com // web
+DOMAIN-SUFFIX,v2rayssr.com // web
+DOMAIN-SUFFIX,wikipedia.org // wikipedia
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-KEYWORD,yahoo.com
+DOMAIN-SUFFIX,yhat.com
+DOMAIN-KEYWORD,youtu // youtube
+DOMAIN-SUFFIX,ytimg.com // web
+DOMAIN,emoji.qpic.cn
+DOMAIN,zenodo.org
+DOMAIN-KEYWORD,zoom
